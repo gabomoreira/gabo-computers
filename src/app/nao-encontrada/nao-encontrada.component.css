@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.container i {
+  font-size: 200px;
+}
+
+.container h2 {
+  font-size: 44px;
+}
+
+.container a {
+  margin-top: 20px;
+  text-decoration: none;
+  background-color: var(--blue);
+  border: none;
+  color: white;
+  font-size: 20px;
+  padding: 6px 12px;
+}
+.product-item__buy-button:hover {
+  filter: brightness(1.1);
+  cursor: pointer;
+}

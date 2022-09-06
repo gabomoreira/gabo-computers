@@ -1,27 +1,42 @@
 # GaboComputers
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+![GitHub repo size](https://img.shields.io/github/repo-size/gabomoreira/gabo-computers?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/gabomoreira/gabo-computers?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/gabomoreira/gabo-computers?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabomoreira/gabo-computers?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabomoreira/gabo-computers?style=for-the-badge)
 
-## Development server
+<img src="./src/assets/img-project.png" alt="GaboComputers">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+> Aplicação web de um e-commerce de produtos voltados a tecnologia.
 
-## Code scaffolding
+## ☕ Usando GaboComputers
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Para usar GaboComputers, clique no link abaixo:
 
-## Build
+[![Link]](https://gabomoreira.github.io/gabo-computers/)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 💻 Tecnologias
 
-## Running unit tests
+As tecnologias utilizadas para construir o GaboComputers foram:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- TypeScript
+- JavaScript
+- Angular
 
-## Running end-to-end tests
+## 🤝 Colaborador
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Agradecemos à seguinte pessoa que contribuíu para este projeto:
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gabomoreira">
+        <img src="https://github.com/gabomoreira.png" width="100px;" alt="Foto do Gabriel Moreira no GitHub"/><br>
+        <sub>
+          <b>Gabriel Moreira</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
